@@ -1,0 +1,67 @@
+
+body{
+	background-color: grey;
+}
+
+.container{
+
+}
+
+.logo{
+	width: 700px;
+	height: 200px;
+}
+
+.logo_div{
+	width: 710px;
+	height: 205px;
+	border-width: 5px;
+	border-color: rgb(238, 255, 0);
+}
+
+.Name{
+	text-align: center;
+	color: red;
+	font-style: Calibri;
+}
+
+#tlo{
+	background-image: pobrane.jpg;
+}
+
+.hr1{
+	width: 90%;
+	height: 10px;
+	background-color: rgb(128, 109, 0);
+	border-color: rgb(115, 128, 0);
+}
+
+.hr2{
+	width: 50%;
+	height: 5px;
+	background-color: rgb(23, 0, 128);
+	border-color: rgb(28, 0, 128);
+}
+
+.hr3{
+	width: 80%;
+	height: 8px;
+	background-color: green;
+	border-color: green;	
+}
+
+.h2_1{
+	font-size: 8;
+}
+
+.h2_02{
+	font-size: 3;
+}
+
+.div{
+	display: flex;
+	justify-content: center;
+	border-width: 5px;
+	border-color: blue;
+	width: 99%;
+}
